@@ -16,14 +16,10 @@
     "firebase-functions": "^3.2.0",
     "http2": "^3.3.7",
     "https": "^1.0.0",
-    "https-browserify": "^1.0.0",
     "parcel": "^1.12.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "typescript": "^3.5.3"
-  },
-  "alias": {
-    "https": "https-browserify"
   },
   "scripts": {
     "start": "parcel src/index.html",
