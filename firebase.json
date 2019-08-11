@@ -1,4 +1,8 @@
 {
+  "functions": {
+    "source": "functions",
+    "predeploy": "yarn build:functions"
+  },
   "hosting": {
     "public": "dist",
     "ignore": [
